@@ -29,6 +29,14 @@
     height: 120px;
 }
 
+/* horizontal line */
+.horizontal{
+    border-left: 6px solid #FF900E;
+    height: 45px;
+    position: absolute;
+    
+}
+
 
            /* -----------------------
                       header & nav styles
@@ -165,6 +173,7 @@ nav ul li a {
 .feature-title {
     font-size: 25px;
     margin-bottom: 20px;
+    margin-left: 20px;
 }
 
 .title-details {
